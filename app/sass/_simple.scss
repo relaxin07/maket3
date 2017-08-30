@@ -1,0 +1,45 @@
+.simple-container-top{
+	padding-top: 80px;
+	background-color: #F6F9F9;
+	padding-bottom: 110px;
+		text-align: center;
+}
+.simple__title{
+	h2{
+		font-size: 40px;
+		margin-top: 0;
+			color: #2d3950;
+	}
+}
+.simple__discription{
+	font-size: 20px;
+	line-height: 32px;
+	color: #999999;
+}
+.simple-container-bottom{
+	padding-top: 60px;
+	text-align: center;
+	padding-bottom: 60px;
+}
+.top-icon{
+	width: 100px;
+	height: 100px;
+	background-color: #5FC3FF;
+	margin: auto;
+	display: flex;
+	img{
+		margin: auto;
+	}
+}
+.simple-item__title{
+	margin-top: 30px;
+	font-size: 22px;
+	color: #2d3950;
+}
+.simple-item__subtext{
+	margin-top: 20px;
+	font-size: 15px;
+	line-height: 22px;
+	padding:0 10px;
+	color: #999999;
+}

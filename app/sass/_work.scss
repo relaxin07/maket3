@@ -1,0 +1,38 @@
+.work{
+	padding-top: 80px;
+	background-color: #F6F9F9;
+	padding-bottom: 75px;
+}
+.work-wrap{
+	text-align: center
+}
+
+.work-title{
+	h2{
+		margin-top:0;
+		color: #2d3950;
+		font-size: 40px;
+	}
+
+}
+.work-photo{
+	margin-top: 30px;
+}
+.work-subtext{
+	color: #999999;
+	font-size: 15px;
+	line-height: 23px;
+}
+.work-photo__item{
+	max-width:359px;
+	max-height: 262px;
+	display: flex;
+	margin: 0 auto 30px;
+	img{
+		max-width: 100%;
+	}
+	a{
+		display:flex;
+	}
+
+}
